@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://warm-brushlands-80189.herokuapp.com/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
